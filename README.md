@@ -1,357 +1,278 @@
-# 🏡 hempbo 🌱
+## 🧱 Bygg ett kollektivt projekt kring hampa
 
-🧱 Bygg ett kollektivt projekt kring hampa
+**Vision:**\
+Skapa ett gemenskapsbaserat, självförsörjande samhälle där hampa är både byggmaterial och försörjningsresurs. Genom att gå ihop som grupp delar vi på kostnader, arbete och lärande.
 
-Vision:Skapa ett gemenskapsbaserat, självförsörjande samhälle där hampa är både byggmaterial och försörjningsresurs. Genom att gå ihop som grupp delar vi på kostnader, arbete och lärande.
+---
 
-🔍 1.1 Identifiera rätt personer att gå ihop med
+### 🔍 1.1 Identifiera rätt personer att gå ihop med
 
-Vilka vi söker:
+**Vilka vi söker:**
 
-Delar värderingar kring hållbarhet, frihet och enkelhet
+- Delar värderingar kring hållbarhet, frihet och enkelhet
+- Intresserade av att bo kollektivt men självständigt
+- Har eller vill lära sig praktiska färdigheter (odling, bygg, snickeri, projektledning etc.)
 
-Intresserade av att bo kollektivt men självständigt
+**Vägar att hitta varandra:**
 
-Har eller vill lära sig praktiska färdigheter (odling, bygg, snickeri, projektledning etc.)
+- Facebookgrupper: "Självförsörjande livsstil", "Ekobyar i Sverige"
+- Egna annonser och infoposter på BildaEkoby.se
+- Skapa en presentationssida eller PDF-flyer för projektet att dela
 
-Vägar att hitta varandra:
+---
 
-Facebookgrupper: "Självförsörjande livsstil", "Ekobyar i Sverige"
+### 🌍 1.2 Köpa mark tillsammans
 
-Egna annonser och infoposter på BildaEkoby.se
+**Vad vi söker:**
 
-Skapa en presentationssida eller PDF-flyer för projektet att dela
+- 5–20 hektar beroende på antal hushåll
+- Tillgång till vatten (bäck, sjö, brunn)
+- Befintliga ekonomibyggnader att använda direkt
+- Låg grad av detaljplanering = mer frihet
+- Gärna jordbruksfastighet
 
-🌍 1.2 Köpa mark tillsammans
+**Sätt att äga tillsammans:**
 
-Vad vi söker:
+- Ekonomisk förening, kooperativ eller bolag
+- Gemensamt ägande av mark med privata byggrätter via avstyckning eller interna arrenden
+- Tydliga avtal och gemensamma värderingar som grund
 
-5–20 hektar beroende på antal hushåll
+---
 
-Tillgång till vatten (bäck, sjö, brunn)
+### 🌿 1.3 Odla hampa för bygg och försörjning
 
-Befintliga ekonomibyggnader att använda direkt
+**Mål:**
 
-Låg grad av detaljplanering = mer frihet
+- Odla industrihampa för att producera hampahalm till byggmaterial
+- Eventuellt även till fiber, fröolja, te eller textil
 
-Gärna jordbruksfastighet
+**Vad som krävs:**
 
-Sätt att äga tillsammans:
+- Odlartillstånd från Jordbruksverket
+- Välja EU-godkänd sort (ex: Futura 75, Felina 32)
+- Utrustning för skörd och eventuell förbehandling
 
-Ekonomisk förening, kooperativ eller bolag
+**Första stegen:**
 
-Gemensamt ägande av mark med privata byggrätter via avstyckning eller interna arrenden
+- Småskalig testodling för att lära oss
+- Bygga prototyper av hampablock
+- Nätverka med Hampaföreningen eller andra liknande initiativ
 
-Tydliga avtal och gemensamma värderingar som grund
+---
 
-🌿 1.3 Odla hampa för bygg och försörjning
+### 🛠️ 1.4 Använd befintliga byggnader under uppstartsfas
 
-Mål:
+- Använd befintliga byggnader till:
+  - Verkstäder för att producera byggmaterial
+  - Lager för hampa och utrustning
+  - Tillfälligt boende
+  - Kurslokaler och gemensamma ytor för arbete och planering
 
-Odla industrihampa för att producera hampahalm till byggmaterial
+---
 
-Eventuellt även till fiber, fröolja, te eller textil
+## 🏡 2. Samarbeta med arkitekt och ta fram flexibel husmodell
 
-Vad som krävs:
-
-Odlartillstånd från Jordbruksverket
-
-Välja EU-godkänd sort (ex: Futura 75, Felina 32)
-
-Utrustning för skörd och eventuell förbehandling
-
-Första stegen:
-
-Småskalig testodling för att lära oss
-
-Bygga prototyper av hampablock
-
-Nätverka med Hampaföreningen eller andra liknande initiativ
-
-🛠️ 1.4 Använd befintliga byggnader under uppstartsfas
-
-Använd befintliga byggnader till:
-
-Verkstäder för att producera byggmaterial
-
-Lager för hampa och utrustning
-
-Tillfälligt boende
-
-Kurslokaler och gemensamma ytor för arbete och planering
-
-🏡 2. Samarbeta med arkitekt och ta fram flexibel husmodell
-
-Syfte:
+**Syfte:**
 Utforma hus som är lätta att bygga själv, billiga i drift och anpassningsbara efter olika behov och familjekonstellationer.
 
-🤝 2.1 Hitta rätt arkitekt
+### 🤝 2.1 Hitta rätt arkitekt
 
-Specialiserad på ekologiskt och energieffektivt byggande
+- Specialiserad på ekologiskt och energieffektivt byggande
+- Erfarenhet av naturmaterial (hampa, lera, halm, trä)
+- Intresse av att medverka i eller stödja ett kooperativt projekt
 
-Erfarenhet av naturmaterial (hampa, lera, halm, trä)
+**Möjliga vägar:**
 
-Intresse av att medverka i eller stödja ett kooperativt projekt
+- Söka i nätverk som Ekobyggportalen, Permakulturföreningen, Arkitekter för hållbar utveckling
+- Direktkontakt med arkitekter som jobbat med t.ex. halmbalshus, hampa eller tiny house
 
-Möjliga vägar:
+### 🏘️ 2.2 Ta fram en husmodell att bygga på plats eller i moduler
 
-Söka i nätverk som Ekobyggportalen, Permakulturföreningen, Arkitekter för hållbar utveckling
+- Förslag: en baskonstruktion på 50–70 kvm som kan byggas ut i etapper
+- Anpassningsbar planlösning beroende på familjens storlek och behov
+- Design för energieffektivitet: passivhustänk, bra isolering, låg drift
+- Utformad för att kunna byggas med hampablock, hampa-lera eller hampakalk
 
-Direktkontakt med arkitekter som jobbat med t.ex. halmbalshus, hampa eller tiny house
+### ✅ 2.3 Framtida återanvändning av modellen
 
-🏘️ 2.2 Ta fram en husmodell att bygga på plats eller i moduler
+- Avtal med arkitekten om rätt att återanvända modellen för vidare försäljning eller workshops
+- Erbjuda andra möjligheten att bygga liknande hus till rimlig kostnad
+- Skapa en husmodell som kan bli "plattform" för spridning av konceptet
 
-Förslag: en baskonstruktion på 50–70 kvm som kan byggas ut i etapper
+---
 
-Anpassningsbar planlösning beroende på familjens storlek och behov
-
-Design för energieffektivitet: passivhustänk, bra isolering, låg drift
-
-Utformad för att kunna byggas med hampablock, hampa-lera eller hampakalk
-
-✅ 2.3 Framtida återanvändning av modellen
-
-Avtal med arkitekten om rätt att återanvända modellen för vidare försäljning eller workshops
-
-Erbjuda andra möjligheten att bygga liknande hus till rimlig kostnad
-
-Skapa en husmodell som kan bli "plattform" för spridning av konceptet
-
-💸 2.4 Uppskattad kostnad per hushåll
+### 💸 2.4 Uppskattad kostnad per hushåll
 
 En grov uppskattning av vad ett hus på cirka 60–70 kvm kan kosta inom ramen för detta projekt, förutsatt mycket egen arbetsinsats och delade resurser:
 
-Kostnadspost
+| Kostnadspost                           | Uppskattning (SEK)    | Kommentar                                                    |
+| -------------------------------------- | --------------------- | ------------------------------------------------------------ |
+| **Andel av markköp**                   | 100 000–300 000       | Beroende på antal hushåll, markläge och befintliga byggnader |
+| **Grundläggning**                      | 30 000–60 000         | Plintgrund eller enklare platta, mycket kan göras själva     |
+| **Stomme och tak**                     | 50 000–100 000        | Träreglar, takstolar, takbeklädnad                           |
+| **Hampablock (egna)**                  | 10 000–20 000         | Om hampan odlas och blocken formas själva                    |
+| **Fönster och dörrar**                 | 20 000–40 000         | Billigare vid återbruk                                       |
+| **Installationsmaterial (el, vatten)** | 20 000–40 000         | Lägre vid off-gridlösning                                    |
+| **Inredning, kök, badrum**             | 20 000–50 000         | Går att minimera med återbruk och enkelhet                   |
+| **Verktyg och gemensamma maskiner**    | 5 000–15 000          | Delas inom gruppen                                           |
+| **Oförutsett / buffert**               | 20 000                | För säkerhets skull                                          |
+| **Totalt per hushåll (grovt)**         | **275 000 – 645 000** | Långt under traditionell byggkostnad                         |
 
-Uppskattning (SEK)
+**Kostnadspressande strategier:**
 
-Kommentar
+- Odla och processa hampan själv
+- Återbruka material där det går
+- Bygg tillsammans i grupp
+- Använd enkel, repeterbar husmodell
+- Välj off-gridlösningar där möjligt
 
-Andel av markköp
+---
 
-100 000–300 000
+## 🔋 3. Självförsörjning av energi, vatten och mat
 
-Beroende på antal hushåll, markläge och befintliga byggnader
-
-Grundläggning
-
-30 000–60 000
-
-Plintgrund eller enklare platta, mycket kan göras själva
-
-Stomme och tak
-
-50 000–100 000
-
-Träreglar, takstolar, takbeklädnad
-
-Hampablock (egna)
-
-10 000–20 000
-
-Om hampan odlas och blocken formas själva
-
-Fönster och dörrar
-
-20 000–40 000
-
-Billigare vid återbruk
-
-Installationsmaterial (el, vatten)
-
-20 000–40 000
-
-Lägre vid off-gridlösning
-
-Inredning, kök, badrum
-
-20 000–50 000
-
-Går att minimera med återbruk och enkelhet
-
-Verktyg och gemensamma maskiner
-
-5 000–15 000
-
-Delas inom gruppen
-
-Oförutsett / buffert
-
-20 000
-
-För säkerhets skull
-
-Totalt per hushåll (grovt)
-
-275 000 – 645 000
-
-Långt under traditionell byggkostnad
-
-Kostnadspressande strategier:
-
-Odla och processa hampan själv
-
-Återbruka material där det går
-
-Bygg tillsammans i grupp
-
-Använd enkel, repeterbar husmodell
-
-Välj off-gridlösningar där möjligt
-
-🔋 3. Självförsörjning av energi, vatten och mat
-
-Syfte:
+**Syfte:**
 Skapa ett robust, resilient och billigt system för att täcka grundläggande behov – utan beroende av externa leverantörer.
 
-🔆 3.1 Energi – el och värme
+---
 
-Möjliga lösningar:
+### 🔆 3.1 Energi – el och värme
 
-Solceller + batterilagring
+**Möjliga lösningar:**
 
-Solvärme (för varmvatten)
+- Solceller + batterilagring
+- Solvärme (för varmvatten)
+- Rak vedeldning (kamin, köksspis)
+- Biokolraketkök eller biogasanläggning på sikt
 
-Rak vedeldning (kamin, köksspis)
+**Gemensamma strategier:**
 
-Biokolraketkök eller biogasanläggning på sikt
+- Bygga central värmeanläggning för gemensamma utrymmen
+- Isolera husen väl – minimerar behov av värme
+- Lågenergibelysning och elsmart design
 
-Gemensamma strategier:
+---
 
-Bygga central värmeanläggning för gemensamma utrymmen
+### 💧 3.2 Vattenförsörjning
 
-Isolera husen väl – minimerar behov av värme
+**Källor:**
 
-Lågenergibelysning och elsmart design
+- Egen brunn (borrad eller grävd)
+- Regnvattensamling med filter
+- Närhet till bäck eller sjö för reservvatten
 
-💧 3.2 Vattenförsörjning
+**Hantering:**
 
-Källor:
+- Gemensam reningslösning (ex: sandfilter, UV-filter)
+- Vattensnåla lösningar: torrtoalett, snålspolande dusch, gråvattenåtervinning
 
-Egen brunn (borrad eller grävd)
+---
 
-Regnvattensamling med filter
+### 🥕 3.3 Matproduktion
 
-Närhet till bäck eller sjö för reservvatten
+**Metoder:**
 
-Hantering:
+- Täckodling, perennodling och växthus
+- Gemensamma odlingsytor + privata täppor
+- Odla stapelgrödor: potatis, rotsaker, kål, lök, gråärt etc.
+- Fruktträd, bärbuskar och örter
+- Kompostering och bokashi för kretslopp
 
-Gemensam reningslösning (ex: sandfilter, UV-filter)
+**Möjliga tillägg:**
 
-Vattensnåla lösningar: torrtoalett, snålspolande dusch, gråvattenåtervinning
+- Svampodling (ex. i byggnader eller skuggigt läge)
+- Smådjur: höns, ankor eller getter för gödsel, ägg och ev. mjölk
+- Gemensamt beredningskök för torkning, syltning och fermentering
 
-🥕 3.3 Matproduktion
+---
 
-Metoder:
+## 💰 4. Inkomst och ekonomi
 
-Täckodling, perennodling och växthus
-
-Gemensamma odlingsytor + privata täppor
-
-Odla stapelgrödor: potatis, rotsaker, kål, lök, gråärt etc.
-
-Fruktträd, bärbuskar och örter
-
-Kompostering och bokashi för kretslopp
-
-Möjliga tillägg:
-
-Svampodling (ex. i byggnader eller skuggigt läge)
-
-Smådjur: höns, ankor eller getter för gödsel, ägg och ev. mjölk
-
-Gemensamt beredningskök för torkning, syltning och fermentering
-
-💰 4. Inkomst och ekonomi
-
-Syfte:
+**Syfte:**
 Skapa långsiktig ekonomisk trygghet för deltagarna utan att vara beroende av traditionella heltidsjobb. Vi bygger en gemensam infrastruktur för försörjning baserat på platsens resurser, gruppens färdigheter och affärsmöjligheter kopplade till projektet.
 
-🏭 4.1 Kooperativt företagande – tillsammans som bas
+---
 
-Starta ett gemensamt företag eller kooperativ för att hantera:
+### 🏭 4.1 Kooperativt företagande – tillsammans som bas
 
-Försäljning av produkter (t.ex. hampablock, odlingsprodukter, förädlade varor)
+- Starta ett gemensamt företag eller kooperativ för att hantera:
+  - Försäljning av produkter (t.ex. hampablock, odlingsprodukter, förädlade varor)
+  - Projektleverans av huskonceptet till andra
+  - Kurser, visningar, utbildningar, retreat- eller volontärprogram
 
-Projektleverans av huskonceptet till andra
+**Fördelar:**
 
-Kurser, visningar, utbildningar, retreat- eller volontärprogram
+- Flera kan bidra på deltid inom sina kompetenser
+- Inkomst kan spridas ut och skalas upp gradvis
+- Alla är delägare och delar på vinster och ansvar
 
-Fördelar:
+---
 
-Flera kan bidra på deltid inom sina kompetenser
+### 🧱 4.2 Sälja huskonceptet
 
-Inkomst kan spridas ut och skalas upp gradvis
+- Efter att ha testat och utvecklat modellen kan vi erbjuda:
+  - Kompletta byggsatser med hampablock och byggmanual
+  - Kurser i självbyggeri och hampablockstillverkning
+  - Möjlighet att bygga på plats tillsammans med beställaren (som ett byggteam)
+- Sälj till andra ekobyar, småbrukare eller självbyggare som vill leva hållbart
 
-Alla är delägare och delar på vinster och ansvar
+---
 
-🧱 4.2 Sälja huskonceptet
+### 🌱 4.3 Sälja överskott från odling och förädling
 
-Efter att ha testat och utvecklat modellen kan vi erbjuda:
+- Grönsaker, frukt, svamp, örter, konserver och fermenterade produkter
+- Urtinkturer, hampate, hampolja eller andra naturliga hälsoprodukter
+- Deltagande i REKO-ringar, marknader, andelsjordbruk (CSA)
 
-Kompletta byggsatser med hampablock och byggmanual
+---
 
-Kurser i självbyggeri och hampablockstillverkning
+### 💡 4.4 Kreativa inkomster och distansarbete
 
-Möjlighet att bygga på plats tillsammans med beställaren (som ett byggteam)
+- Egen verksamhet inom design, programmering, musik, skrivande, m.m.
+- Distansarbete deltid medan projektet växer
+- Skapa digitala produkter kopplade till projektet: blogg, bok, YouTube-serie, onlinekurser
 
-Sälj till andra ekobyar, småbrukare eller självbyggare som vill leva hållbart
+---
 
-🌱 4.3 Sälja överskott från odling och förädling
+## 🤝 5. Gemenskap och social struktur
 
-Grönsaker, frukt, svamp, örter, konserver och fermenterade produkter
-
-Urtinkturer, hampate, hampolja eller andra naturliga hälsoprodukter
-
-Deltagande i REKO-ringar, marknader, andelsjordbruk (CSA)
-
-💡 4.4 Kreativa inkomster och distansarbete
-
-Egen verksamhet inom design, programmering, musik, skrivande, m.m.
-
-Distansarbete deltid medan projektet växer
-
-Skapa digitala produkter kopplade till projektet: blogg, bok, YouTube-serie, onlinekurser
-
-🤝 5. Gemenskap och social struktur
-
-Syfte:
+**Syfte:**
 Skapa en levande, trygg och inkluderande gemenskap där både självständighet och samarbete ryms. Ett samhälle där vi delar på resurser, kunskap och ansvar – men respekterar varandras olika behov och livsstilar.
 
-🫂 5.1 Värderingar och gemensam riktning
+---
 
-Formulera gemensamma värderingar och riktlinjer för samlevnad
+### 🫂 5.1 Värderingar och gemensam riktning
 
-Klargör hur beslut tas: konsensus, rådslag, majoritet etc.
+- Formulera gemensamma värderingar och riktlinjer för samlevnad
+- Klargör hur beslut tas: konsensus, rådslag, majoritet etc.
+- Skapa strukturer för att hantera konflikter och främja dialog
 
-Skapa strukturer för att hantera konflikter och främja dialog
+---
 
-🏘️ 5.2 Privat och gemensamt
+### 🏘️ 5.2 Privat och gemensamt
 
-Varje hushåll har sin egen bostad, men:
+- Varje hushåll har sin egen bostad, men:
+  - Delar resurser: verktyg, fordon, tvättstuga, beredningskök
+  - Gemensamma utrymmen: samlingslokal, växthus, verkstad
+  - Möjlighet till gemensamma måltider eller arbetsdagar
 
-Delar resurser: verktyg, fordon, tvättstuga, beredningskök
+---
 
-Gemensamma utrymmen: samlingslokal, växthus, verkstad
+### 🧑‍🤝‍🧑 5.3 Barn och familjeliv
 
-Möjlighet till gemensamma måltider eller arbetsdagar
+- Barn får leva nära naturen och vuxna med olika färdigheter
+- Gemensam lek, lärande och trygghet – men respekt för föräldrars roller
+- Möjlighet att organisera hemundervisning, mikroförskola eller kooperativ skolform
 
-🧑‍🤝‍🧑 5.3 Barn och familjeliv
+---
 
-Barn får leva nära naturen och vuxna med olika färdigheter
+### 🎉 5.4 Kultur och gemenskapsskapande
 
-Gemensam lek, lärande och trygghet – men respekt för föräldrars roller
+- Högtider, sång, hantverk, berättelser – skapa egna traditioner
+- Bygg gemenskap med rytmer och ritualer: fredagsmiddag, gemensam trädgårdsdag, eldhelg etc.
+- Bjud in vänner, volontärer eller gäster att delta och inspireras
 
-Möjlighet att organisera hemundervisning, mikroförskola eller kooperativ skolform
+---
 
-🎉 5.4 Kultur och gemenskapsskapande
-
-Högtider, sång, hantverk, berättelser – skapa egna traditioner
-
-Bygg gemenskap med rytmer och ritualer: fredagsmiddag, gemensam trädgårdsdag, eldhelg etc.
-
-Bjud in vänner, volontärer eller gäster att delta och inspireras
-
-Nästa steg:
+**Nästa steg:**
 Gå vidare till punkt 6: Inre resa och livsdesign – hur vi hittar mening och balans i det enklare livet.
 
