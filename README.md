@@ -350,15 +350,3 @@ Att kartlägga konkreta ekonomiska möjligheter för att starta, testa och utvec
 
 
 
-
-
-
-Bilderna kommer att visas direkt i README-filen när den visas på GitHub, GitLab eller andra plattformar som stöder Markdown.
-
-**Tips:** 
-- Använd beskrivande alt-text för tillgänglighet
-- Håll bildfilerna under 1MB för snabb laddning
-- Använd vanliga format som PNG, JPG, eller SVG
-
-
-
