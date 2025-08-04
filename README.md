@@ -278,45 +278,72 @@ Skapa en levande, trygg och inkluderande gemenskap där både självständighet 
 **Syfte:**
 Att kartlägga konkreta ekonomiska möjligheter för att starta, testa och utveckla projektet genom bidrag, stöd och innovationsfinansiering.
 
-### 🇪🇺 6.1 Landsbygdsprogrammet (Jordbruksverket/Länsstyrelsen)
-- Stöd för:
-  - Byggnader och utrustning för förädling och diversifiering
-  - Startstöd för unga jordbrukare eller nya verksamheter
-  - Samarbete mellan aktörer inom landsbygdsutveckling
-- **Stödnivåer:** ofta 30–70 % av investeringskostnaden
-- **Realistiskt belopp:** upp till 500 000–1 500 000 kr beroende på projektomfattning
+---
 
-### 🏡 6.2 LEADER-bidrag
-- Lokalt förankrade medel för hållbara, sociala och samverkande landsbygdsprojekt
-- Bra för:
-  - Testodling av hampa
-  - Byggnation av visningshus eller utbildningsverksamhet
-- **Sök via:** din lokala LEADER-grupp (googla “LEADER + kommun”)
-- **Realistiskt belopp:** 100 000 – 1 000 000 kr
+### 🌾 6.1 Gårdsstöd och grödrelaterade ersättningar (Jordbruksverket)
+- **För vad?** Odling av industrihampa kräver registrering och berättigar till gårdsstöd samt andra miljöersättningar.
+- **Villkor:** Minst 0,1 ha odling, godkänd EU-sort och ansökan via SAM.
+- **Stöd:** 10 000–30 000 kr/år beroende på markyta och tilläggsersättningar.
 
-### 💡 6.3 Vinnova – Innovation för samhällsnytta
-- För projekt med klimatnytta, bygginnovation, kooperativ utveckling
-- Möjligt att söka för:
-  - Utveckling av hampablock
-  - Boendekoncept och energisnåla byggsystem
-- **Stödnivåer:** upp till 80 % stöd beroende på projektfas
-- **Realistiskt belopp:** 300 000 – 2 000 000 kr (ofta i stegvis ansökan)
+---
 
-### 🏛️ 6.4 Arvsfonden (vid inkluderande satsningar)
-- För projekt som gynnar barn, unga eller personer med funktionsvariationer
-- Möjligt vid t.ex. mikroförskola, pedagogisk gård, social inkludering
-- **Stödnivåer:** upp till 100 % av kostnader
+### 🏗️ 6.2 Investerings- & projektstöd (CAP 2023–27)
+- **För vad?** Investeringar i byggnader, maskiner, lokaler, innovation, samarbete eller nyetablering på landsbygd.
+- **Exempel:** Hampablocktillverkning, visningshus, utbildning, gemensam verkstad.
+- **Stödnivå:** 30–80 % beroende på typ av investering.
+- **Möjligt belopp:** 300 000 – 2 000 000 kr+ beroende på projektets omfattning.
+- **Sök via:** Länsstyrelsen (regional handläggning).
 
-### ⚡ 6.5 Andra alternativ
-- **Energimyndigheten:** om ni utvecklar energieffektiva lösningar
-- **Klimatklivet (Naturvårdsverket):** investeringar som minskar klimatpåverkan (ex. biokol, solvärme)
-- **Tillväxtverket:** stöd för sociala företag, kooperativ och landsbygdsföretag
-- **Crowdfunding / medlemsinvestering:** som komplement eller startkapital
+---
+
+### 🏡 6.3 LEADER-bidrag
+- **För vad?** Lokal utveckling med fokus på hållbarhet, samverkan och lokal nytta.
+- **Passar till:** testodling, pilotprojekt, kooperativ utveckling, evenemang, utbildning.
+- **Belopp:** 100 000 – 1 000 000 kr
+- **Sök via:** Din lokala LEADER-grupp.
+
+---
+
+### 💡 6.4 Vinnova – innovation och klimatnytta
+- **För vad?** Innovationsprojekt med samhällsnytta, kooperativa modeller och klimatlösningar.
+- **Exempel:** Hållbart byggsystem med hampablock, affärsmodell för ekobyar.
+- **Belopp:** 300 000 – 2 000 000 kr, ofta i stegvisa utlysningar.
+- **Stödnivå:** upp till 80 %.
+
+---
+
+### 🏛️ 6.5 Arvsfonden (om social inkludering)
+- **För vad?** Projekt för barn, unga eller personer med funktionsnedsättning.
+- **Exempel:** pedagogisk gård, mikroförskola, inkluderande gemenskap.
+- **Belopp:** upp till full kostnadstäckning.
+
+---
+
+### ⚡ 6.6 Övriga stöd och kompletterande vägar
+- **Energimyndigheten:** klimatsmarta energilösningar, off-grid
+- **Klimatklivet (Naturvårdsverket):** investeringar som minskar utsläpp (t.ex. biokol, solvärme)
+- **Tillväxtverket:** kooperativ och företagande på landsbygd
+- **Crowdfunding / medlemsinvestering:** kan ge både startkapital och delaktighet
+
+---
+
+### 💰 Sammanfattande stödnivåer (realistiskt per projekttyp)
+
+| Typ av projekt                         | Möjligt stöd (SEK)          |
+|----------------------------------------|------------------------------|
+| Gårdsstöd och arealbaserade ersättningar | 10 000 – 30 000 / år         |
+| Investeringsstöd (CAP)                | 300 000 – 2 000 000+         |
+| LEADER                                | 100 000 – 1 000 000          |
+| Vinnova                               | 300 000 – 2 000 000          |
+| Arvsfonden                            | upp till 100 % finansiering  |
+
 
 **Tips:**
-- Kombinera stödformer
-- Tänk pilotprojekt i liten skala först
-- Samarbeta med kommun, universitet eller ideell förening som medaktör
+- Kombinera stödformer (ex. LEADER + CAP + crowdfunding)
+- Tänk i etapper: testodling → pilotbygge → skalning
+- Samverka med kommun, universitet eller ideella föreningar för ökad genomslagskraft
+
+---
 
 
 
