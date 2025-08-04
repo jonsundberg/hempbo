@@ -1,4 +1,4 @@
-# hempbo
+# 🏡 hempbo 🌱
 
 🧱 Bygg ett kollektivt projekt kring hampa
 
