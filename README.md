@@ -273,6 +273,50 @@ Skapa en levande, trygg och inkluderande gemenskap där både självständighet 
 
 ---
 
-**Nästa steg:**
-Gå vidare till punkt 6: Inre resa och livsdesign – hur vi hittar mening och balans i det enklare livet.
+## 💡 6. Möjlig finansiering och bidrag
+
+**Syfte:**
+Att kartlägga konkreta ekonomiska möjligheter för att starta, testa och utveckla projektet genom bidrag, stöd och innovationsfinansiering.
+
+### 🇪🇺 6.1 Landsbygdsprogrammet (Jordbruksverket/Länsstyrelsen)
+- Stöd för:
+  - Byggnader och utrustning för förädling och diversifiering
+  - Startstöd för unga jordbrukare eller nya verksamheter
+  - Samarbete mellan aktörer inom landsbygdsutveckling
+- **Stödnivåer:** ofta 30–70 % av investeringskostnaden
+- **Realistiskt belopp:** upp till 500 000–1 500 000 kr beroende på projektomfattning
+
+### 🏡 6.2 LEADER-bidrag
+- Lokalt förankrade medel för hållbara, sociala och samverkande landsbygdsprojekt
+- Bra för:
+  - Testodling av hampa
+  - Byggnation av visningshus eller utbildningsverksamhet
+- **Sök via:** din lokala LEADER-grupp (googla “LEADER + kommun”)
+- **Realistiskt belopp:** 100 000 – 1 000 000 kr
+
+### 💡 6.3 Vinnova – Innovation för samhällsnytta
+- För projekt med klimatnytta, bygginnovation, kooperativ utveckling
+- Möjligt att söka för:
+  - Utveckling av hampablock
+  - Boendekoncept och energisnåla byggsystem
+- **Stödnivåer:** upp till 80 % stöd beroende på projektfas
+- **Realistiskt belopp:** 300 000 – 2 000 000 kr (ofta i stegvis ansökan)
+
+### 🏛️ 6.4 Arvsfonden (vid inkluderande satsningar)
+- För projekt som gynnar barn, unga eller personer med funktionsvariationer
+- Möjligt vid t.ex. mikroförskola, pedagogisk gård, social inkludering
+- **Stödnivåer:** upp till 100 % av kostnader
+
+### ⚡ 6.5 Andra alternativ
+- **Energimyndigheten:** om ni utvecklar energieffektiva lösningar
+- **Klimatklivet (Naturvårdsverket):** investeringar som minskar klimatpåverkan (ex. biokol, solvärme)
+- **Tillväxtverket:** stöd för sociala företag, kooperativ och landsbygdsföretag
+- **Crowdfunding / medlemsinvestering:** som komplement eller startkapital
+
+**Tips:**
+- Kombinera stödformer
+- Tänk pilotprojekt i liten skala först
+- Samarbeta med kommun, universitet eller ideell förening som medaktör
+
+
 
