@@ -345,5 +345,21 @@ Att kartlägga konkreta ekonomiska möjligheter för att starta, testa och utvec
 
 ---
 
+## �� Bilder i README
+
+Baserat på din projektstruktur kan du använda:
+
+```markdown
+![Hempbo Logo](./graphic/hempbo-logo.png)
+![Hemp Blocks](./hempbo-website/public/images/hemp-blocks.png)
+```
+
+Bilderna kommer att visas direkt i README-filen när den visas på GitHub, GitLab eller andra plattformar som stöder Markdown.
+
+**Tips:** 
+- Använd beskrivande alt-text för tillgänglighet
+- Håll bildfilerna under 1MB för snabb laddning
+- Använd vanliga format som PNG, JPG, eller SVG
+
 
 
